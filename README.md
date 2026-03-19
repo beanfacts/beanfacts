@@ -4,8 +4,6 @@ I work with high-performance computing infrastructure to identify optimizations 
 Sometimes I use that knowledge to write weird applications using HPC libraries.  
 You can find most of that in the [Telescope Project](https://github.com/telescope-proj), which I maintain.
 
-I'm currently doing my MSc in Computer Science at the University of Göttingen.
-
 <details>
   <summary><b>Angaben gemäß § 5 TMG (Impressum)</b></summary>
   
